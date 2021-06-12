@@ -1,10 +1,5 @@
 ## WebPageTest API Wrapper for NodeJS
 
-[![Build Status](https://secure.travis-ci.org/marcelduran/webpagetest-api.svg?branch=master)](https://travis-ci.org/marcelduran/webpagetest-api)
-[![NPM Version](https://img.shields.io/npm/v/webpagetest.svg?style=flat)](https://www.npmjs.org/package/webpagetest)
-[![NPM Downloads](https://img.shields.io/npm/dm/webpagetest.svg?style=flat)](https://www.npmjs.org/package/webpagetest)
-[![Dependencies Status](https://david-dm.org/marcelduran/webpagetest-api.svg)](https://david-dm.org/marcelduran/webpagetest-api)
-
 [WebPageTest API Wrapper](https://marcelduran.com/webpagetest-api) is a [NPM](https://npmjs.org) package that wraps [WebPageTest](https://github.com/WPO-Foundation/webpagetest) API for [NodeJS](https://nodejs.org) as a module and a command-line tool.
 
 ## Getting started
@@ -720,23 +715,3 @@ WebPageTest API Wrapper provides a simple seamless way to integrate WebPageTest 
 ```bash
 $ npm test
 ```
-
-## Issues
-
-Have a bug/feature request? Please create an issue here on GitHub!
-
-https://github.com/marcelduran/webpagetest-api/issues
-
-## Author
-
-**Marcel Duran**
-
-+ https://github.com/marcelduran
-
-## License
-
-Copyright 2013 Twitter Inc.
-Copyright 2020 Google Inc.
-Copyright 2020 Marcel Duran and other contributors
-
-Licensed under the [MIT License](https://github.com/marcelduran/webpagetest-api/raw/master/LICENSE)
